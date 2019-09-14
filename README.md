@@ -9,7 +9,7 @@
 
 
 <br/>
-Ce repo contient simplement mon [rapport de stage](https://github.com/valentinmace/qwant/blob/master/rapport_stage.pdf)
+Ce repo contient simplement mon [rapport](https://github.com/valentinmace/qwant/blob/master/rapport_stage.pdf)
 <br/>
 <br/>
 <br/>
