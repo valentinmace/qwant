@@ -4,8 +4,7 @@
 
 <br/>
 <br/>
-# Qwant Research - Rapport de stage
-<br/>
+
 
 
 
