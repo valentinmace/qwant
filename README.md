@@ -1,7 +1,7 @@
 # Qwant Research - Rapport de stage
 
 <p align="center">
-  <img src="./animation.gif">
+  <img src="./qwant_logo.png">
 </p>
 
 Ce repo contient simplement mon rapport de stage
